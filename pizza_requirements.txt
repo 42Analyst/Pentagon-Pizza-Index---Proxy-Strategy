@@ -1,0 +1,8 @@
+gdelt-doc-api
+pandas
+numpy
+scipy
+statsmodels
+yfinance
+matplotlib
+requests
