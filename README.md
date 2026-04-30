@@ -115,23 +115,6 @@ This replicates the "busier than usual vs recent baseline" logic of pizzint.watc
 
 ---
 
-## Repository Structure
-
-```
-pentagon-pizza-index/
-├── pizza_index.py            # Full pipeline: GDELT fetch → signal → tests →
-│                             #   walk-forward → paper trading
-├── requirements.txt          # Python dependencies
-├── DOCUMENTATION.md          # Technical methodology and code guide
-├── LIMITATIONS.md            # Known limitations and mitigations
-├── hypothesis_report.txt     # Raw output from hypothesis tests
-├── walk_forward_results.csv  # Per-fold walk-forward results
-├── paper_trade_log.csv       # Every individual paper trade
-└── paper_equity_curve.csv    # Daily equity curve
-```
-
----
-
 ## Quick Start
 
 ```bash
