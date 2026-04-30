@@ -1,1 +1,1 @@
-# Pentagon-Pizza-Index---Proxy-Strategy
+# Pentagon-Pizza-Index Proxy-Strategy
